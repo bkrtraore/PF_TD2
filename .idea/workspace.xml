@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01e601fb-4d67-4fb5-b0ee-4813b9b51252" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/appli/ToString.java" afterDir="false" />
+    <list default="true" id="01e601fb-4d67-4fb5-b0ee-4813b9b51252" name="Changes" comment="Q2.E2 on stage">
+      <change afterPath="$PROJECT_DIR$/src/appli/exo2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/appli/exo2/Paire.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/appli/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/appli/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/appli/Somme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/appli/Somme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/appli/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/appli/exo1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/appli/Somme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/appli/exo1/Somme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/appli/ToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/appli/exo1/ToString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666615410619</updated>
       <workItem from="1666615412123" duration="1341000" />
-      <workItem from="1666617076282" duration="2245000" />
+      <workItem from="1666617076282" duration="4905000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1666617133483</created>
@@ -67,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666617133483</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Q2.E2 on stage">
+      <created>1666619375069</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666619375069</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +96,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Q2.E2 on stage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q2.E2 on stage" />
   </component>
 </project>

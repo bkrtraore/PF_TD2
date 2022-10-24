@@ -1,4 +1,4 @@
-package appli;
+package appli.exo1;
 
 @FunctionalInterface
 public interface ToString<T> {

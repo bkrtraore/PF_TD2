@@ -1,4 +1,7 @@
-package appli;
+package appli.exo1;
+
+import appli.exo1.Somme;
+import appli.exo1.ToString;
 
 import java.util.List;
 
@@ -18,12 +21,32 @@ public class Main {
 
         System.out.println("-------------------------------------");
 
-        ToString<List<String>> string = (t -> {
+        /*ToString<List<String>> string = (t -> {
             for (String s : t
                  ) {
                 System.out.println(t.toString());
             }
             return s;
+        });*/
+
+        ToString<List<String>> string = (t -> {
+            String chaine = "";
+            for (String s : t
+            ) {
+                chaine += t.toString();
+            }
+            return chaine;
         });
+
+        /*
+        List<String> s = new ArrayList<>();
+        s.add("a");
+        s.add("b");
+        s.add("c");
+        String z = ToString.string(s);
+        System.out.println(ToString.string(s));
+         */
+
+
     }
 }
